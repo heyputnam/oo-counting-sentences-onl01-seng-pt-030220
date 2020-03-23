@@ -21,3 +21,7 @@ end
   end
 end
 end
+
+string = String.new
+
+string << "Hi, my name is Sophie."
