@@ -6,6 +6,7 @@ class String
   if self.String.end_with(".")
     if !self.String.end_with(".")
   end
+end
 
   def question?
 
