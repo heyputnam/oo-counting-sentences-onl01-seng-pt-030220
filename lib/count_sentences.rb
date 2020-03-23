@@ -3,9 +3,7 @@ require 'pry'
 class String
 
   def sentence?
-  if self.String.end_with(".")
-    if !self.String.end_with(".")
-  end
+   self.String.end_with(".")
 end
 
   def question?
@@ -20,8 +18,3 @@ end
 
   end
 end
-end
-
-string = String.new
-
-string << "Hi, my name is Sophie."
