@@ -5,7 +5,7 @@ class String
   def sentence?
     if self.String.end_with?(".")
     else
-      self.String.end_with?("?", "!", ",")
+      self.String.end_with?("!")
     end
   end
 
